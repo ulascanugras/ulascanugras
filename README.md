@@ -14,13 +14,6 @@
 ---
 
 
-### Spotify Playing 🎧
-
-[[Spotify]](https://open.spotify.com/user/srkjejl79i6k25yofclr7mjt4?si=f6d7642a007c4d85)
-
-
----
-
 ### Languages and Tools 🛠 
 
 ![CSharp](https://img.shields.io/badge/-CSharp-6b1678?style=flat-square&logo=csharp)
