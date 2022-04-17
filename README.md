@@ -9,7 +9,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ulaşcan-uğraş-205761187//)](https://www.linkedin.com/in/ulaşcan-uğraş-205761187/)
 
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 ---
 
